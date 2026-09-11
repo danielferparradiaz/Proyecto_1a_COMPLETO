@@ -2,8 +2,8 @@
 ## Aplicación del Gradiente (Cálculo 2) con Asistencia de IA
 
 **Curso:** Cálculo 2 — Ingeniería
-**Integrantes:** [Nombre 1], [Nombre 2], [Nombre 3], [Nombre 4]
-**Fecha de entrega:** 31 de agosto
+**Integrantes:** Daniel Fernando Parra Diaz
+**Fecha de entrega:** Sab 12 sept 2026
 
 ---
 
